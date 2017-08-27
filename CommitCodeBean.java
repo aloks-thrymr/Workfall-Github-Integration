@@ -12,7 +12,6 @@ public class CommitCodeBean {
 public String commitId;
 	
 
-	public String appUseremail;
 	public String projectname;
 	
 	public String commitMessage;
