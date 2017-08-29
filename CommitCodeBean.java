@@ -13,7 +13,7 @@ public String commitId;
 	
 
 	public String projectname;
-	public String project;
+	public String projec;
 	
 	public String commitMessage;
 	
